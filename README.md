@@ -46,3 +46,17 @@ The best part?
 You are building a tool that grows together with your knowledge.
 
 Over time, your own thoughts become the database.
+
+## Setup
+
+```code
+Turn on the Obsidian CLI. Since version 1.12.7 Obsidian has a command line that talks to the running app. Enable it in Settings -> General -> Command line interface. The agents can now ask Obsidian which pages have no incoming links and which links point nowhere, for free and in milliseconds.
+```
+
+```code
+Point the Web Clipper at the inbox. Set the Obsidian Web Clipper’s default folder to raw/inbox/, and set attachments to raw/assets/ in Settings -> Files and links. Every article you clip lands where the scout looks for work.
+```
+
+```code
+Start Claude Code inside the vault. Run claude from the brain folder and keep Obsidian open beside the terminal. Pages appear and links form in the graph view while you watch.
+```

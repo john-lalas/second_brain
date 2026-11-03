@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "deny": ["Edit(raw/**)", "Write(raw/**)", "Bash(rm:*)", "Bash(curl:*)", "WebFetch"],
+    "allow": ["Read", "Edit(wiki/**)", "Write(wiki/**)", "Write(reports/**)", "Bash(obsidian:*)"]
+  }
+}
